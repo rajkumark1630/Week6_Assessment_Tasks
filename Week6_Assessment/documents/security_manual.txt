@@ -1,0 +1,12 @@
+
+COMPANY SECURITY MANUAL
+
+Password Security:
+Employees must use strong passwords.
+Passwords must never be shared.
+Enable multi-factor authentication.
+
+Data Protection:
+Company information must remain confidential.
+Sensitive files must be protected.
+Unauthorized access is prohibited.
